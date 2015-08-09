@@ -11,9 +11,8 @@ set_time_limit(0);
 ignore_user_abort(FALSE);
 
 $acess_url = '09K33M3O20D0RFGHM3-DG40!203!212223KFJV9RO04ELR'; //Password - example
-$remote_links = array(
-  '', //use the same $acess_url
-  ''    //use the same $acess_url
+$remote_links = array( //use the same $acess_url
+    
 );
 
 /*********************************************************************************************************
