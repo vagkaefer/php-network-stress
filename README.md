@@ -4,5 +4,6 @@ Script to Network stress. USE TO TEST. NOT TO ATTACK!
 ## characteristics
 
 - Time control
+- Door Control
 - Distributed test
-- Control port
+- Protected by Security Key
